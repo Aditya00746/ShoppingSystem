@@ -1,2 +1,0 @@
-# ShoppingSystem
-Final Project
